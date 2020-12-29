@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/lofi-llama",
   siteMetadata: {
     title: `Lofi Llama`,
     description: `Quick holiday project for Gatsby's 2020 Silly Site Challenge`,
